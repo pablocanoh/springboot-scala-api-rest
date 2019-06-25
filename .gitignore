@@ -1,2 +1,4 @@
+.idea/
+springboot-scala-api-rest.iml
 *.class
 *.log
